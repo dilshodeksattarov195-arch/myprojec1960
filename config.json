@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterrtringify",
+        "uuid": 14584360,
+        "checksum": "sqlhxq"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
